@@ -49,3 +49,7 @@ This dataset provides daily historical records that allow for time-series analys
 - Used the `yfinance` library to fetch historical stock data of STC from Yahoo Finance.
 - Calculated technical indicators such as moving averages (MA20, MA50, MA200) and the Relative Strength Index (RSI).
 - Designed the user interface with Streamlit, incorporating interactive visualizations powered by Plotly.
+![Dashboard Screenshot](dash/BuySell.png)
+![Dashboard Screenshot](dash/RSI.png)
+![Dashboard Screenshot](dash/Volume.png)
+
