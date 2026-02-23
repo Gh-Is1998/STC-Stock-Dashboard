@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.title("STC Dashboard 📊")
 
 
-df_clean = pd.read_csv("STC.csv")
+df_clean = pd.read_csv("stc.csv")
 
 df = df_clean.copy()
 
@@ -35,3 +35,4 @@ ax.grid(True)
 st.pyplot(fig)       
 
                                                                                             
+
