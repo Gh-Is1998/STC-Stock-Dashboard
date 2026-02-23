@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.title("STC Dashboard 📊")
 
 
-df_clean = pd.read_csv("stc.csv")
+df_clean = pd.read_csv("STC.csv")
 
 df = df_clean.copy()
 
@@ -33,4 +33,5 @@ ax.set_ylabel("Volume")
 ax.grid(True)
 
 st.pyplot(fig)       
+
                                                                                             
