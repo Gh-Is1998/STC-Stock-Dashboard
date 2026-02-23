@@ -49,4 +49,11 @@ This dataset provides daily historical records that allow for time-series analys
 - Used the `yfinance` library to fetch historical stock data of STC from Yahoo Finance.
 - Calculated technical indicators such as moving averages (MA20, MA50, MA200) and the Relative Strength Index (RSI).
 - Designed the user interface with Streamlit, incorporating interactive visualizations powered by Plotly.
+  ## Live Interactive Dashboard
+
+Click the link below to explore the interactive STC stock analysis dashboard, including dynamic charts, moving averages, RSI indicator, and buy/sell signals:
+
+🔗 
  https://stc-stock-dashboard-mep9zf8ybreafwiw8sztwv.streamlit.app/
+ https://stc-stock-dashboard-nyos3srcskxxmxbms8oenu.streamlit.app/
+https://stc-stock-dashboard-nyos3srcskxxmxbms8oenu.streamlit.app/
