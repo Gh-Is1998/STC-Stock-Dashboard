@@ -10,7 +10,6 @@ df_clean = pd.read_csv("stc.csv")
 
 df = df_clean.copy()
 
-# تأكدي أن التاريخ datetime
 df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
 
 # اختيار السنة من القائمة
