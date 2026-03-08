@@ -5,8 +5,6 @@ import numpy as np
 import plotly.graph_objects as go # type: ignore
 
 st.title("STC Dashboard")
-
-# ✅ قراءة البيانات أولاً
 df_clean = pd.read_csv("stc.csv")
 
 # تحويل التاريخ
